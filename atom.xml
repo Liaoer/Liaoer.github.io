@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-22T14:44:36.243Z</updated>
+  <updated>2018-08-22T14:45:25.794Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,18 +20,18 @@
     <link href="http://yoursite.com/2018/07/24/RenderingEquation/"/>
     <id>http://yoursite.com/2018/07/24/RenderingEquation/</id>
     <published>2018-07-24T12:12:10.000Z</published>
-    <updated>2018-08-22T14:44:36.243Z</updated>
+    <updated>2018-08-22T14:45:25.794Z</updated>
     
-    <content type="html"><![CDATA[<p>$$L_o=L_e</p>
+    <content type="html"><![CDATA[<p>$$L_o=$L_e</p>
 <p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1fuiuglh78tj20k50kj0td.jpg" alt=""></p>
 <p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1fuiug0c8tij20sg0fkq57.jpg" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;$$L_o=L_e&lt;/p&gt;
+      &lt;p&gt;$$L_o=$L_e&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12c0gy1fuiuglh78tj20k50kj0td.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://ws1.sinaim
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinai
     
     </summary>
     
