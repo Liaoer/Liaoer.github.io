@@ -2,6 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Liaoer</title>
   
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -22,14 +23,15 @@
     <published>2018-07-24T12:12:10.000Z</published>
     <updated>2018-08-23T05:12:13.431Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1fuiuglh78tj20k50kj0td.jpg" alt=""></p>
-<p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1fuiug0c8tij20sg0fkq57.jpg" alt=""></p>
-]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1fuiuglh78tj20k50kj0td.jpg" alt></p><p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1fuiug0c8tij20sg0fkq57.jpg" alt></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12c0gy1fuiuglh78tj20k50kj0td.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12c0gy1fuiuglh78tj20k50kj0td.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12c0g
+      
     
     </summary>
     
@@ -47,13 +49,15 @@
     <published>2018-07-06T11:09:20.000Z</published>
     <updated>2018-07-13T07:19:22.391Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1ft89ddjaamj209c08g74e.jpg" alt="Solid Angle"></p>
-]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ws1.sinaimg.cn/large/88fb12c0gy1ft89ddjaamj209c08g74e.jpg" alt="Solid Angle"></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12c0gy1ft89ddjaamj209c08g74e.jpg&quot; alt=&quot;Solid Angle&quot;&gt;&lt;/p&gt;
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://ws1.sinaimg.cn/large/88fb12c0gy1ft89ddjaamj209c08g74e.jpg&quot; alt=&quot;Solid Angle&quot;&gt;&lt;/p&gt;
 
+      
     
     </summary>
     
@@ -73,21 +77,16 @@
     <published>2015-06-24T11:52:40.000Z</published>
     <updated>2018-07-13T07:17:21.727Z</updated>
     
-    <content type="html"><![CDATA[<p>$$E=mc^2$$</p>
-<p>\begin{vmatrix}<br>1 &amp; 2\\<br>3 &amp; 4<br>\end{vmatrix}</p>
-<p>$$\left[<br>\begin{array}{cc|c}<br>1&amp;2&amp;3\\<br>4&amp;5&amp;6<br>\end{array}<br>\right]$$</p>
-<h2 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h2><p>$\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1$</p>
-<p>$$J_\alpha(x)=\sum _{m=0}^\infty \frac{(-1)^ m}{m! \, \Gamma (m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha }$$</p>
-<p>$$\frac{\partial u}{\partial t}= h^2 \left( \frac{\partial^2 u}{\partial x^2}+ \frac{\partial^2 u}{\partial y^2}+ \frac{\partial^2 u}{\partial z^2}\right)$$</p>
-<p>\begin{aligned}<br>\dot{x} &amp; = \sigma(y-x) \\<br>\dot{y} &amp; = \rho x - y - xz \\<br>\dot{z} &amp; = -\beta z + xy<br>\end{aligned}</p>
-<p>$$ i\hbar\frac{\partial \psi}{\partial t}= \frac{-\hbar^2}{2m} \left(\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}+ \frac{\partial^2}{\partial z^2}\right) \psi + V \psi.$$</p>
-]]></content>
+    <content type="html"><![CDATA[<p>$$E=mc^2$$</p><p>\begin{vmatrix}<br>1 &amp; 2\<br>3 &amp; 4<br>\end{vmatrix}</p><p>$$\left[<br>\begin{array}{cc|c}<br>1&amp;2&amp;3\<br>4&amp;5&amp;6<br>\end{array}<br>\right]$$</p><h2 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h2><p>$\cos 2\theta = \cos^2 \theta - \sin^2 \theta =  2 \cos^2 \theta - 1$</p><p>$$J_\alpha(x)=\sum _{m=0}^\infty \frac{(-1)^ m}{m! , \Gamma (m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha }$$</p><p>$$\frac{\partial u}{\partial t}= h^2 \left( \frac{\partial^2 u}{\partial x^2}+ \frac{\partial^2 u}{\partial y^2}+ \frac{\partial^2 u}{\partial z^2}\right)$$</p><p>\begin{aligned}<br>\dot{x} &amp; = \sigma(y-x) \<br>\dot{y} &amp; = \rho x - y - xz \<br>\dot{z} &amp; = -\beta z + xy<br>\end{aligned}</p><p>$$ i\hbar\frac{\partial \psi}{\partial t}= \frac{-\hbar^2}{2m} \left(\frac{\partial^2}{\partial x^2}+ \frac{\partial^2}{\partial y^2}+ \frac{\partial^2}{\partial z^2}\right) \psi + V \psi.$$</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;$$E=mc^2$$&lt;/p&gt;
-&lt;p&gt;\begin{vmatrix}&lt;br&gt;1 &amp;amp; 2\\&lt;br&gt;3 &amp;amp; 4&lt;br&gt;\end{vmatrix}&lt;/p&gt;
-&lt;p&gt;$$\left[&lt;br&gt;\begin{array}{cc|c}&lt;br&gt;1&amp;amp;2&amp;amp;3\\&lt;
+      
+      
+        &lt;p&gt;$$E=mc^2$$&lt;/p&gt;
+&lt;p&gt;\begin{vmatrix}&lt;br&gt;1 &amp;amp; 2\&lt;br&gt;3 &amp;amp; 4&lt;br&gt;\end{vmatrix}&lt;/p&gt;
+&lt;p&gt;$$\left[&lt;br&gt;\begin{array}{cc|c}&lt;br&gt;1&amp;amp;2&amp;amp;3\&lt;br
+      
     
     </summary>
     
